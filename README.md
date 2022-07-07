@@ -21,5 +21,14 @@
 
 - Call the caesar() function, passing over the 'text', 'shift' and 'direction' values.
 
+##### Part 4 - Optional
+- Import and print the logo from art.py when the program starts.
+
+- Figure a solution in case the user enters a number/symbol/space and integrate in the encryption algorithm.
+
+- Figure a way to ask the user if they want to restart the cipher program.
+
+- What if the user enters a shift that is greater than the number of letters in the alphabet?
+
 ### Authors of  this Branch
 - @armando-adorno Armando Adorno https://armando-adorno.github.io/armando-adorno/
