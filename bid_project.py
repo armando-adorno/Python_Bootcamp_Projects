@@ -1,4 +1,5 @@
 import art
+import os
 
 print(art.logo)
 
@@ -21,6 +22,7 @@ elif(more_bids == "no"):
 while(bids == True):
   
     # TODO Need To Clear the Terminal for each Bider Input
+    os.system('cls')
     
     bider_name.append(input("Name: "))
     bid_price.append(int(input("Price: ")))
